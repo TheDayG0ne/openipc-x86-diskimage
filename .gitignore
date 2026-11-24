@@ -1,0 +1,4 @@
+# Generated images can be large and may contain private data.
+*.raw
+*.vmdk
+.disk-image-x86.*
